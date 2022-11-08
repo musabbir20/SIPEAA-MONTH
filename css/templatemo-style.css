@@ -38,6 +38,11 @@ h3
 	{
 		background-color: #303030;
 	}
+h3 span
+	{
+		color: #28a7e9;
+		font-weight: bold;
+	}
 
 /* start about team service portfolio contact */
 #about, #team, #service,
